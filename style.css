@@ -27,10 +27,12 @@ font-family: sans-serif;
 .text {
 text-align: center;
 z-index: 1;
+width: auto;
+height: auto;
 }
 
 .text h1{
-  font-size: 46px;
+  font-size: 86px;
   color:white
 }
 .text h1:hover{
